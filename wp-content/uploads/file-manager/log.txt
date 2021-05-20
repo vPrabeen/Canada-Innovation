@@ -1,0 +1,4117 @@
+[Thu, 18 Jan 2018 17:25:39 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1516179591,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'bc-mortgage-broker.ca',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'https://bc-mortgage-broker.ca/',
+      'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/x-tar',
+          1 => 'application/x-gzip',
+          2 => 'application/x-bzip2',
+          3 => 'application/x-xz',
+          4 => 'application/zip',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/x-tar',
+          1 => 'application/x-gzip',
+          2 => 'application/x-bzip2',
+          3 => 'application/x-xz',
+          4 => 'application/zip',
+        ),
+        'createext' => 
+        array (
+          'application/x-tar' => 'tar',
+          'application/x-gzip' => 'tgz',
+          'application/x-bzip2' => 'tbz',
+          'application/x-xz' => 'xz',
+          'application/zip' => 'zip',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+    'root' => 'l1_Lw',
+  ),
+  'options' => 
+  array (
+    'path' => 'bc-mortgage-broker.ca',
+    'url' => 'https://bc-mortgage-broker.ca/',
+    'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/x-xz' => 'xz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1516179591,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'bc-mortgage-broker.ca',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://bc-mortgage-broker.ca/',
+        'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/x-xz',
+            4 => 'application/zip',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/x-xz',
+            4 => 'application/zip',
+          ),
+          'createext' => 
+          array (
+            'application/x-tar' => 'tar',
+            'application/x-gzip' => 'tgz',
+            'application/x-bzip2' => 'tbz',
+            'application/x-xz' => 'xz',
+            'application/zip' => 'zip',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1513924097,
+      'read' => 1,
+      'write' => 1,
+      'size' => '15',
+      'hash' => 'l1_LmZ0cHF1b3Rh',
+      'name' => '.ftpquota',
+      'phash' => 'l1_Lw',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1512209591,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16246',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1513634745,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Y2dpLWJpbg',
+      'name' => 'cgi-bin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481752210,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481752213,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1513433381,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LndlbGwta25vd24',
+      'name' => '.well-known',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1516179591,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7413',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-pascal',
+      'ts' => 1516179591,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19935',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855593,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3669',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1513486811,
+      'read' => 1,
+      'write' => 1,
+      'size' => '31',
+      'hash' => 'l1_cm9ib3RzLnR4dA',
+      'name' => 'robots.txt',
+      'phash' => 'l1_Lw',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1516155791,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3149',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1515870812,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4507',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484165077,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151235,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudG9sZHNpdGU',
+      'name' => 'wp-contentoldsite',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855593,
+      'read' => 1,
+      'write' => 1,
+      'size' => '30071',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481752210,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151298,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3Atc25hcHNob3Rz',
+      'name' => 'wp-snapshots',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3306',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '36583',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510855594,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1456955084,
+      'read' => 1,
+      'write' => 1,
+      'size' => '53',
+      'hash' => 'l1_Z29vZ2xlOTRkZjJhNGQxNTBmNGY2OS5odG1s',
+      'name' => 'google94df2a4d150f4f69.html',
+      'phash' => 'l1_Lw',
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5434',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1450288706,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2853',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1461694956,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380093492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855593,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4620',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    29 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1457051858,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3284',
+      'hash' => 'l1_d3AtY29uZmlnb2xkLnBocA',
+      'name' => 'wp-configold.php',
+      'phash' => 'l1_Lw',
+    ),
+    30 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296299,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    31 => 
+    array (
+      'isowner' => false,
+      'mime' => 'application/zip',
+      'ts' => 1516156115,
+      'read' => 1,
+      'write' => 1,
+      'size' => '115591038',
+      'hash' => 'l1_d3AtY29udGVudC56aXA',
+      'name' => 'wp-content.zip',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+  'api' => '2.1',
+  'uplMaxSize' => '128M',
+  'uplMaxFile' => '20',
+  'netDrivers' => 
+  array (
+  ),
+  'maxTargets' => 1000,
+) 
+[Thu, 18 Jan 2018 17:25:51 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1516296299,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudA',
+    'name' => 'wp-content',
+    'phash' => 'l1_Lw',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'bc-mortgage-broker.ca/wp-content',
+    'url' => 'https://bc-mortgage-broker.ca/',
+    'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/x-xz' => 'xz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1514195426,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9jYWNoZS0tYmtw',
+      'name' => 'cache--bkp',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516156205,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9jYWNoZQ',
+      'name' => 'cache',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296274,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5z',
+      'name' => 'plugins',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296296,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGxvYWRz',
+      'name' => 'uploads',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296276,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGdyYWRl',
+      'name' => 'upgrade',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1326090672,
+      'read' => 1,
+      'write' => 1,
+      'size' => '28',
+      'hash' => 'l1_d3AtY29udGVudC9pbmRleC5waHA',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudA',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510018019,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'name' => 'themes',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Thu, 18 Jan 2018 17:26:01 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1510018019,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+    'name' => 'themes',
+    'phash' => 'l1_d3AtY29udGVudA',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'bc-mortgage-broker.ca/wp-content/themes',
+    'url' => 'https://bc-mortgage-broker.ca/',
+    'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/x-xz' => 'xz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151116,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'name' => 'canada',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1402028954,
+      'read' => 1,
+      'write' => 1,
+      'size' => '28',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvaW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+    ),
+  ),
+) 
+[Thu, 18 Jan 2018 17:26:50 +0000] PARENTS: array (
+  'tree' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1516179591,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'bc-mortgage-broker.ca',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://bc-mortgage-broker.ca/',
+        'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/x-xz',
+            4 => 'application/zip',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/x-xz',
+            4 => 'application/zip',
+          ),
+          'createext' => 
+          array (
+            'application/x-tar' => 'tar',
+            'application/x-gzip' => 'tgz',
+            'application/x-bzip2' => 'tbz',
+            'application/x-xz' => 'xz',
+            'application/zip' => 'zip',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'ts' => 1516296299,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1514195426,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9jYWNoZS0tYmtw',
+      'name' => 'cache--bkp',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516156205,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9jYWNoZQ',
+      'name' => 'cache',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296274,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5z',
+      'name' => 'plugins',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296296,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGxvYWRz',
+      'name' => 'uploads',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296276,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGdyYWRl',
+      'name' => 'upgrade',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510018019,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'name' => 'themes',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1512209591,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1513634745,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Y2dpLWJpbg',
+      'name' => 'cgi-bin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1513433381,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LndlbGwta25vd24',
+      'name' => '.well-known',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151235,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudG9sZHNpdGU',
+      'name' => 'wp-contentoldsite',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151298,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3Atc25hcHNob3Rz',
+      'name' => 'wp-snapshots',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510855594,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Thu, 18 Jan 2018 17:27:31 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1516151116,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    'name' => 'canada',
+    'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'bc-mortgage-broker.ca/wp-content/themes/canada',
+    'url' => 'https://bc-mortgage-broker.ca/',
+    'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/x-xz' => 'xz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1515523921,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3RlbXBsYXRlLXBhcnRz',
+      'name' => 'template-parts',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514948566,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4289',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2hvbWVwYWdlLXRtcGwucGhw',
+      'name' => 'homepage-tmpl.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514206173,
+      'read' => 1,
+      'write' => 1,
+      'size' => '947',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL05vc2lkZWJhci10bXBsLnBocA',
+      'name' => 'Nosidebar-tmpl.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514998853,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1626',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NlYXJjaC5waHA',
+      'name' => 'search.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1509941342,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2dlbmVyaWNvbnM',
+      'name' => 'genericons',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1972',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2NvbW1lbnRzLnBocA',
+      'name' => 'comments.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3204',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3JlYWRtZS50eHQ',
+      'name' => 'readme.txt',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514220614,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1082',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhLzQwNC5waHA',
+      'name' => '404.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4148',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2hlYWRlcl9vbGQucGhw',
+      'name' => 'header_old.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3554',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2ltYWdlLnBocA',
+      'name' => 'image.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1509943180,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2ZvbnRz',
+      'name' => 'fonts',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514914980,
+      'read' => 1,
+      'write' => 1,
+      'size' => '15077',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Z1bmN0aW9ucy5waHA',
+      'name' => 'functions.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '744',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NlYXJjaGZvcm0ucGhw',
+      'name' => 'searchform.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/css',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '12925',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3J0bC5jc3M',
+      'name' => 'rtl.css',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1514314655,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Nzcw',
+      'name' => 'css',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1516215686,
+      'read' => 1,
+      'write' => 1,
+      'size' => '25565',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3N0eWxlLmNzcw',
+      'name' => 'style.css',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1509941344,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2luYw',
+      'name' => 'inc',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510680949,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3329',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NpZGViYXItbm8taW1hZ2UtdG1wbC5waHA',
+      'name' => 'sidebar-no-image-tmpl.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514912644,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4648',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Zvb3Rlci5waHA',
+      'name' => 'footer.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510335065,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7202',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3dwX2Jvb3RzdHJhcF9uYXZ3YWxrZXIucGhw',
+      'name' => 'wp_bootstrap_navwalker.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'image/png',
+      'ts' => 1496206420,
+      'read' => 1,
+      'write' => 1,
+      'size' => '463555',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NjcmVlbnNob3QucG5n',
+      'name' => 'screenshot.png',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'tmb' => 1,
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1515522343,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2949',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NpbmdsZS5waHA',
+      'name' => 'single.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1512661974,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4265',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL0NvbnRhY3QtdG1wbC5waHA',
+      'name' => 'Contact-tmpl.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514207332,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1254',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL1Rlc3RpbW9uaWFsLnBocA',
+      'name' => 'Testimonial.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514921006,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2108',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2FyY2hpdmUucGhw',
+      'name' => 'archive.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1515519010,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3949',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NpZGViYXItdG1wbC5waHA',
+      'name' => 'sidebar-tmpl.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-c++',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '69779',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3N0eWxlX29sZC5jc3M',
+      'name' => 'style_old.css',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '390',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NpZGViYXJfb2xkLnBocA',
+      'name' => 'sidebar_old.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '794',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NpZGViYXItY29udGVudC1ib3R0b20tb2xkLnBocA',
+      'name' => 'sidebar-content-bottom-old.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    29 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1514397751,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2ltYWdlcw',
+      'name' => 'images',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    30 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1509943140,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2pz',
+      'name' => 'js',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    31 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1515093366,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2535',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2luZGV4LnBocA',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    32 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1515178157,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3917',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3BhZ2UucGhw',
+      'name' => 'page.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    33 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1868',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Zvb3Rlcl9vbGQucGhw',
+      'name' => 'footer_old.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    34 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1516295789,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4740',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2hlYWRlci5waHA',
+      'name' => 'header.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    35 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1514201801,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3Nhc3M',
+      'name' => 'sass',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    36 => 
+    array (
+      'isowner' => false,
+      'mime' => 'image/png',
+      'ts' => 1509673194,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1598',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Zhdmljb24ucG5n',
+      'name' => 'favicon.png',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'tmb' => 1,
+    ),
+  ),
+) 
+[Thu, 18 Jan 2018 17:27:35 +0000] TMB: array (
+  'images' => 
+  array (
+    'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Zhdmljb24ucG5n' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Zhdmljb24ucG5n1509673194.png',
+  ),
+) 
+[Thu, 18 Jan 2018 17:45:41 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1516179591,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'bc-mortgage-broker.ca',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'https://bc-mortgage-broker.ca/',
+      'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/x-tar',
+          1 => 'application/x-gzip',
+          2 => 'application/x-bzip2',
+          3 => 'application/x-xz',
+          4 => 'application/zip',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/x-tar',
+          1 => 'application/x-gzip',
+          2 => 'application/x-bzip2',
+          3 => 'application/x-xz',
+          4 => 'application/zip',
+        ),
+        'createext' => 
+        array (
+          'application/x-tar' => 'tar',
+          'application/x-gzip' => 'tgz',
+          'application/x-bzip2' => 'tbz',
+          'application/x-xz' => 'xz',
+          'application/zip' => 'zip',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+    'root' => 'l1_Lw',
+  ),
+  'options' => 
+  array (
+    'path' => 'bc-mortgage-broker.ca',
+    'url' => 'https://bc-mortgage-broker.ca/',
+    'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/x-xz' => 'xz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1516179591,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'bc-mortgage-broker.ca',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://bc-mortgage-broker.ca/',
+        'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/x-xz',
+            4 => 'application/zip',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/x-xz',
+            4 => 'application/zip',
+          ),
+          'createext' => 
+          array (
+            'application/x-tar' => 'tar',
+            'application/x-gzip' => 'tgz',
+            'application/x-bzip2' => 'tbz',
+            'application/x-xz' => 'xz',
+            'application/zip' => 'zip',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1513924097,
+      'read' => 1,
+      'write' => 1,
+      'size' => '15',
+      'hash' => 'l1_LmZ0cHF1b3Rh',
+      'name' => '.ftpquota',
+      'phash' => 'l1_Lw',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296455,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16246',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1513634745,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Y2dpLWJpbg',
+      'name' => 'cgi-bin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481752210,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481752213,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1513433381,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LndlbGwta25vd24',
+      'name' => '.well-known',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1516179591,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7413',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-pascal',
+      'ts' => 1516179591,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19935',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855593,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3669',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1513486811,
+      'read' => 1,
+      'write' => 1,
+      'size' => '31',
+      'hash' => 'l1_cm9ib3RzLnR4dA',
+      'name' => 'robots.txt',
+      'phash' => 'l1_Lw',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1516155791,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3149',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1515870812,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4507',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484165077,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151235,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudG9sZHNpdGU',
+      'name' => 'wp-contentoldsite',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855593,
+      'read' => 1,
+      'write' => 1,
+      'size' => '30071',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481752210,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151298,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3Atc25hcHNob3Rz',
+      'name' => 'wp-snapshots',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3306',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '36583',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510855594,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1456955084,
+      'read' => 1,
+      'write' => 1,
+      'size' => '53',
+      'hash' => 'l1_Z29vZ2xlOTRkZjJhNGQxNTBmNGY2OS5odG1s',
+      'name' => 'google94df2a4d150f4f69.html',
+      'phash' => 'l1_Lw',
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5434',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1450288706,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2853',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1461694956,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380093492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855593,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4620',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    29 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1457051858,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3284',
+      'hash' => 'l1_d3AtY29uZmlnb2xkLnBocA',
+      'name' => 'wp-configold.php',
+      'phash' => 'l1_Lw',
+    ),
+    30 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296299,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    31 => 
+    array (
+      'isowner' => false,
+      'mime' => 'application/zip',
+      'ts' => 1516156115,
+      'read' => 1,
+      'write' => 1,
+      'size' => '115591038',
+      'hash' => 'l1_d3AtY29udGVudC56aXA',
+      'name' => 'wp-content.zip',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+  'api' => '2.1',
+  'uplMaxSize' => '128M',
+  'uplMaxFile' => '20',
+  'netDrivers' => 
+  array (
+  ),
+  'maxTargets' => 1000,
+) 
+[Thu, 18 Jan 2018 18:32:59 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1516179591,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'bc-mortgage-broker.ca',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'https://bc-mortgage-broker.ca/',
+      'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/x-tar',
+          1 => 'application/x-gzip',
+          2 => 'application/x-bzip2',
+          3 => 'application/x-xz',
+          4 => 'application/zip',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/x-tar',
+          1 => 'application/x-gzip',
+          2 => 'application/x-bzip2',
+          3 => 'application/x-xz',
+          4 => 'application/zip',
+        ),
+        'createext' => 
+        array (
+          'application/x-tar' => 'tar',
+          'application/x-gzip' => 'tgz',
+          'application/x-bzip2' => 'tbz',
+          'application/x-xz' => 'xz',
+          'application/zip' => 'zip',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+    'root' => 'l1_Lw',
+  ),
+  'options' => 
+  array (
+    'path' => 'bc-mortgage-broker.ca',
+    'url' => 'https://bc-mortgage-broker.ca/',
+    'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/x-xz' => 'xz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1516179591,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'bc-mortgage-broker.ca',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://bc-mortgage-broker.ca/',
+        'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/x-xz',
+            4 => 'application/zip',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/x-xz',
+            4 => 'application/zip',
+          ),
+          'createext' => 
+          array (
+            'application/x-tar' => 'tar',
+            'application/x-gzip' => 'tgz',
+            'application/x-bzip2' => 'tbz',
+            'application/x-xz' => 'xz',
+            'application/zip' => 'zip',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1513924097,
+      'read' => 1,
+      'write' => 1,
+      'size' => '15',
+      'hash' => 'l1_LmZ0cHF1b3Rh',
+      'name' => '.ftpquota',
+      'phash' => 'l1_Lw',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296455,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16246',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1513634745,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Y2dpLWJpbg',
+      'name' => 'cgi-bin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481752210,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481752213,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1513433381,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LndlbGwta25vd24',
+      'name' => '.well-known',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1516179591,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7413',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-pascal',
+      'ts' => 1516179591,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19935',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855593,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3669',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1513486811,
+      'read' => 1,
+      'write' => 1,
+      'size' => '31',
+      'hash' => 'l1_cm9ib3RzLnR4dA',
+      'name' => 'robots.txt',
+      'phash' => 'l1_Lw',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1516155791,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3149',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1515870812,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4507',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484165077,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151235,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudG9sZHNpdGU',
+      'name' => 'wp-contentoldsite',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855593,
+      'read' => 1,
+      'write' => 1,
+      'size' => '30071',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481752210,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151298,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3Atc25hcHNob3Rz',
+      'name' => 'wp-snapshots',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3306',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '36583',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510855594,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1456955084,
+      'read' => 1,
+      'write' => 1,
+      'size' => '53',
+      'hash' => 'l1_Z29vZ2xlOTRkZjJhNGQxNTBmNGY2OS5odG1s',
+      'name' => 'google94df2a4d150f4f69.html',
+      'phash' => 'l1_Lw',
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5434',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1450288706,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2853',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1461694956,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380093492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510855593,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4620',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    29 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1457051858,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3284',
+      'hash' => 'l1_d3AtY29uZmlnb2xkLnBocA',
+      'name' => 'wp-configold.php',
+      'phash' => 'l1_Lw',
+    ),
+    30 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516300087,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    31 => 
+    array (
+      'isowner' => false,
+      'mime' => 'application/zip',
+      'ts' => 1516156115,
+      'read' => 1,
+      'write' => 1,
+      'size' => '115591038',
+      'hash' => 'l1_d3AtY29udGVudC56aXA',
+      'name' => 'wp-content.zip',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+  'api' => '2.1',
+  'uplMaxSize' => '128M',
+  'uplMaxFile' => '20',
+  'netDrivers' => 
+  array (
+  ),
+  'maxTargets' => 1000,
+) 
+[Thu, 18 Jan 2018 18:33:07 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1516300087,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudA',
+    'name' => 'wp-content',
+    'phash' => 'l1_Lw',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'bc-mortgage-broker.ca/wp-content',
+    'url' => 'https://bc-mortgage-broker.ca/',
+    'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/x-xz' => 'xz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1514195426,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9jYWNoZS0tYmtw',
+      'name' => 'cache--bkp',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516156205,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9jYWNoZQ',
+      'name' => 'cache',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296274,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5z',
+      'name' => 'plugins',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296296,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGxvYWRz',
+      'name' => 'uploads',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296276,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGdyYWRl',
+      'name' => 'upgrade',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1326090672,
+      'read' => 1,
+      'write' => 1,
+      'size' => '28',
+      'hash' => 'l1_d3AtY29udGVudC9pbmRleC5waHA',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudA',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510018019,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'name' => 'themes',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Thu, 18 Jan 2018 18:33:12 +0000] PARENTS: array (
+  'tree' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1516179591,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'bc-mortgage-broker.ca',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://bc-mortgage-broker.ca/',
+        'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/x-xz',
+            4 => 'application/zip',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/x-xz',
+            4 => 'application/zip',
+          ),
+          'createext' => 
+          array (
+            'application/x-tar' => 'tar',
+            'application/x-gzip' => 'tgz',
+            'application/x-bzip2' => 'tbz',
+            'application/x-xz' => 'xz',
+            'application/zip' => 'zip',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516296455,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510855596,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1513634745,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Y2dpLWJpbg',
+      'name' => 'cgi-bin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1513433381,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LndlbGwta25vd24',
+      'name' => '.well-known',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151235,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudG9sZHNpdGU',
+      'name' => 'wp-contentoldsite',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516151298,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3Atc25hcHNob3Rz',
+      'name' => 'wp-snapshots',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510855594,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516300087,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Thu, 18 Jan 2018 18:33:13 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1510018019,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+    'name' => 'themes',
+    'phash' => 'l1_d3AtY29udGVudA',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'bc-mortgage-broker.ca/wp-content/themes',
+    'url' => 'https://bc-mortgage-broker.ca/',
+    'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/x-xz' => 'xz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1516299898,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'name' => 'canada',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1402028954,
+      'read' => 1,
+      'write' => 1,
+      'size' => '28',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvaW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+    ),
+  ),
+) 
+[Thu, 18 Jan 2018 18:33:18 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1516299898,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    'name' => 'canada',
+    'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'bc-mortgage-broker.ca/wp-content/themes/canada',
+    'url' => 'https://bc-mortgage-broker.ca/',
+    'tmbUrl' => 'https://bc-mortgage-broker.ca/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/x-xz',
+        4 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/x-xz' => 'xz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1515523921,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3RlbXBsYXRlLXBhcnRz',
+      'name' => 'template-parts',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514948566,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4289',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2hvbWVwYWdlLXRtcGwucGhw',
+      'name' => 'homepage-tmpl.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514206173,
+      'read' => 1,
+      'write' => 1,
+      'size' => '947',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL05vc2lkZWJhci10bXBsLnBocA',
+      'name' => 'Nosidebar-tmpl.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514998853,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1626',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NlYXJjaC5waHA',
+      'name' => 'search.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1509941342,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2dlbmVyaWNvbnM',
+      'name' => 'genericons',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1972',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2NvbW1lbnRzLnBocA',
+      'name' => 'comments.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3204',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3JlYWRtZS50eHQ',
+      'name' => 'readme.txt',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514220614,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1082',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhLzQwNC5waHA',
+      'name' => '404.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4148',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2hlYWRlcl9vbGQucGhw',
+      'name' => 'header_old.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3554',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2ltYWdlLnBocA',
+      'name' => 'image.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1509943180,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2ZvbnRz',
+      'name' => 'fonts',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514914980,
+      'read' => 1,
+      'write' => 1,
+      'size' => '15077',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Z1bmN0aW9ucy5waHA',
+      'name' => 'functions.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '744',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NlYXJjaGZvcm0ucGhw',
+      'name' => 'searchform.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/css',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '12925',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3J0bC5jc3M',
+      'name' => 'rtl.css',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1514314655,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Nzcw',
+      'name' => 'css',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1516299798,
+      'read' => 1,
+      'write' => 1,
+      'size' => '25608',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3N0eWxlLmNzcw',
+      'name' => 'style.css',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1509941344,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2luYw',
+      'name' => 'inc',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510680949,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3329',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NpZGViYXItbm8taW1hZ2UtdG1wbC5waHA',
+      'name' => 'sidebar-no-image-tmpl.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514912644,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4648',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Zvb3Rlci5waHA',
+      'name' => 'footer.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510335065,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7202',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3dwX2Jvb3RzdHJhcF9uYXZ3YWxrZXIucGhw',
+      'name' => 'wp_bootstrap_navwalker.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'image/png',
+      'ts' => 1496206420,
+      'read' => 1,
+      'write' => 1,
+      'size' => '463555',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NjcmVlbnNob3QucG5n',
+      'name' => 'screenshot.png',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'tmb' => 1,
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1515522343,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2949',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NpbmdsZS5waHA',
+      'name' => 'single.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1512661974,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4265',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL0NvbnRhY3QtdG1wbC5waHA',
+      'name' => 'Contact-tmpl.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514207332,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1254',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL1Rlc3RpbW9uaWFsLnBocA',
+      'name' => 'Testimonial.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1514921006,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2108',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2FyY2hpdmUucGhw',
+      'name' => 'archive.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1515519010,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3949',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NpZGViYXItdG1wbC5waHA',
+      'name' => 'sidebar-tmpl.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-c++',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '69779',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3N0eWxlX29sZC5jc3M',
+      'name' => 'style_old.css',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '390',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NpZGViYXJfb2xkLnBocA',
+      'name' => 'sidebar_old.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '794',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NpZGViYXItY29udGVudC1ib3R0b20tb2xkLnBocA',
+      'name' => 'sidebar-content-bottom-old.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    29 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1514397751,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2ltYWdlcw',
+      'name' => 'images',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    30 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1509943140,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2pz',
+      'name' => 'js',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    31 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1515093366,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2535',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2luZGV4LnBocA',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    32 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1515178157,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3917',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3BhZ2UucGhw',
+      'name' => 'page.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    33 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1496204504,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1868',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Zvb3Rlcl9vbGQucGhw',
+      'name' => 'footer_old.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    34 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1516299898,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4693',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2hlYWRlci5waHA',
+      'name' => 'header.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+    ),
+    35 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1514201801,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3Nhc3M',
+      'name' => 'sass',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'volumeid' => 'l1_',
+    ),
+    36 => 
+    array (
+      'isowner' => false,
+      'mime' => 'image/png',
+      'ts' => 1509673194,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1598',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Zhdmljb24ucG5n',
+      'name' => 'favicon.png',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRh',
+      'tmb' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL2Zhdmljb24ucG5n1509673194.png',
+    ),
+  ),
+) 
+[Thu, 18 Jan 2018 18:33:25 +0000] TMB: array (
+  'images' => 
+  array (
+    'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NjcmVlbnNob3QucG5n' => 'l1_d3AtY29udGVudC90aGVtZXMvY2FuYWRhL3NjcmVlbnNob3QucG5n1496206420.png',
+  ),
+) 

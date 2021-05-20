@@ -1,0 +1,10 @@
+PROCESSED on Sun, 08 Dec 2019 14:20:52 +0000
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/plugins/reactive-mortgage-calculator/site/resources/materialize.css
+/wp-content/plugins/reactive-mortgage-calculator/site/resources/c3.min.css
+/wp-content/plugins/reactive-mortgage-calculator/site/resources/app.css
+/wp-content/plugins/wp-google-places-review-slider/public/css/wprev-public_combine.css
+/wp-content/themes/FoundationPress-child/dist/assets/css/app.css
+/wp-content/plugins/widget-google-reviews/static/css/google-review.css
+PROCESSED from https://beta.bc-mortgage-broker.ca/home-equity-loans/

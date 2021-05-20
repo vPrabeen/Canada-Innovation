@@ -1,0 +1,190 @@
+.my_meta_control .description
+{ display:none; }
+ 
+.my_meta_control label
+{  font-weight:bold; margin:6px; margin-bottom:0; margin-top:12px; }
+ 
+.my_meta_control label span
+{ display:inline; font-weight:normal; }
+ 
+.my_meta_control span
+{ color:#999; display:block; }
+ 
+.my_meta_control textarea, .my_meta_control input[type='text']
+{ margin-bottom:3px; }
+ 
+.my_meta_control h4
+{ color:#999; font-size:1em; margin:15px 6px; text-transform:uppercase; }
+
+
+#hide_content {
+	display:none !important;
+	}
+	
+.onethirdbox {
+	width:30%;
+	margin-right:3.3%;
+	float:left;
+	}
+
+.halfbox_first .wp-media-buttons, .halfbox_second .wp-media-buttons {
+	display:none !important;
+	}
+	
+.halfbox_first label, .halfbox_second label {
+	margin-bottom:-20px !important;
+	
+	}
+	
+.halfbox_first {
+	/* width:49%;
+	margin-right:2%;
+	float:left; */
+	clear:both;
+	padding-bottom:25px;
+	padding-top:10px;
+	}
+	
+.halfbox_second {
+	/* width:49%;
+	margin-right:0%;
+	float:left; */
+	margin-bottom:25px;
+	padding-top:10px; 
+	}
+	
+.wp-editor-container textarea.wp-editor-area {
+	width:99.8% !important;
+	}
+	
+.mceLast span, .mceLast span { display: inline}
+
+
+	
+	
+.clear {
+	clear:both;
+	}
+	
+	
+	
+/* MetaBox CSS
+******************************************************/
+
+.meta_section:before,
+.meta_section:after {
+    content:"";
+    display:table;
+}
+
+.meta_section:after {
+    clear:both;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+.meta_section {
+    zoom:1;
+}
+
+.wpa_group { 
+	margin:0 0 20px;
+	background:#fff;
+	padding:10px 10px 15px;
+	border:1px solid #dfdfdf;
+	cursor:move;
+}
+/*Side Meta Box*/
+
+.side_meta_control .meta_section { margin: 15px 0 }
+
+.side_meta_control label {
+    display: block;
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+.side_meta_control label span {
+    display: inline;
+    font-weight: normal;
+}
+
+.side_meta_control span {
+    display: block;
+    color: #666666;
+    font-family: sans-serif;
+    font-style: italic;
+    padding: 5px 0 0;
+}
+
+.side_meta_control textarea,
+.side_meta_control input[type='text'],
+.side_meta_control select { width: 99% }
+
+.side_meta_control h4 {
+    margin: 15px 6px;
+    color: #999;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+
+/* Side Meta Tabs*/
+
+.side_meta_control ul.tabs {
+    margin: 8px 0 3px;
+    padding: 0;
+}
+
+.side_meta_control ul.tabs li.current {
+    background-color: #fff;
+    color: #333333;
+    border-color: #DFDFDF;
+}
+
+.side_meta_control ul.tabs li {
+    display: inline-block;
+    padding: 3px 5px 2px;
+    color: #21759B;
+    border: 1px solid transparent;
+    border-bottom: 0;
+    border-radius: 3px 3px 0 0;
+    cursor: pointer;
+}
+
+.side_meta_control div.panes {
+    margin-top: -10px;
+    padding: 6px 10px;
+    background: #fff;
+    border: 1px solid #DFDFDF;
+}
+
+.side_meta_control div.panes > div { display: none }
+
+/*Normal Meta Box*/
+
+.normal_meta_control .meta_section { 
+	margin: 15px 0;
+}
+
+.normal_meta_control .meta_section .sub-section { margin:10px 0; clear:both; }
+
+.normal_meta_control label {
+	display:block;
+	font-weight:bold;
+	float:left;
+	width:200px;
+}
+.normal_meta_control label span {
+    display: inline;
+    font-weight: normal;
+}
+
+/* .normal_meta_control span {
+    display: block;
+    color: #666666;
+    font-family: sans-serif;
+    padding: 5px 0 0 200px;
+} */
+
+.normal_meta_control textarea,
+.normal_meta_control input[type='text'],
+.normal_meta_control select { margin-right:10px; min-width:200px;}

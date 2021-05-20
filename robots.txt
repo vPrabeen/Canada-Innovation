@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /sitemap_index.xml
+Disallow: /blog/category/*
+Disallow: /blog/client-item/*
+Disallow: /blog/author/*
+
+Sitemap: https://bc-mortgage-broker.ca/sitemap_index.xml
